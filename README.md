@@ -63,9 +63,8 @@ Make sure the project includes a `movies.csv` file with the following columns:<b
 ` budget, revenue, popularity, runtime, vote_average, title, genres`
 <br>
 ## 👨‍💻 Author<br>
-### Naman Vora<br>
-#### Final Year CSE Student | Aspiring Data Analyst<br>
-📫 [LinkedIn](www.linkedin.com/in/namanvora21) • [GitHub](https://github.com/nv2105)
+### SHIVAM NAUTIYAL<br>
+#### Final Year B. SC IT Student | Aspiring Data Analyst<br>
 
 ## 📄 License
 This project is open source and available under the [MIT License.](https://mit-license.org/) 
